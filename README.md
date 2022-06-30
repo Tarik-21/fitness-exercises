@@ -2,4 +2,4 @@
 
 ![SCREEN!](src/assets/images/screen.PNG)
 
-[I'm an inline-style link](https://www.google.com)
+[Live site](https://my-fit-exercises.netlify.app)
